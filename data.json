@@ -98,15 +98,15 @@
     {
         "id":13,
         "nombre": "C.H. Belo Horizonte (180 MW)",
-        "imagen": "https://i.postimg.cc/66zzjg5H/galletas-casino.jpg",
+        "imagen": "https://i.postimg.cc/3JFv2D6K/belo-horizonte.png",
         "precio": 4.20,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
     },
     {
         "id":14,
-        "nombre": "C.H. Raura II (13 MW)",
-        "imagen": "https://i.postimg.cc/FzFpFgGg/chocolate-besodemoza.jpg",
+        "nombre": "C.H. Viroc (13 MW)",
+        "imagen": "https://i.postimg.cc/m2s9cSmX/viroc.png",
         "precio": 10,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -114,7 +114,7 @@
     {
         "id":15,
         "nombre": "C.H. Huallin I (6 MW)",
-        "imagen": "https://i.postimg.cc/SK0GYpDK/chocolate-sublimecaja.jpg",
+        "imagen": "https://i.postimg.cc/BZDDQzBP/huallin-I.png",
         "precio": 13,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -122,7 +122,7 @@
     {
         "id":16,
         "nombre": "C.H. Cola I (13.1 MW)",
-        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
+        "imagen": "https://i.postimg.cc/qq8Cbtvx/cola-I.png",
         "precio": 28,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -130,7 +130,7 @@
     {
         "id":17,
         "nombre": "C.H. Nueva Esperanza (9.16 MW)",
-        "imagen": "https://i.postimg.cc/J43PZN1j/piqueos-cheetoshorneadoqueso.jpg",
+        "imagen": "https://i.postimg.cc/4yC9Qvs3/nueva-esperanza.png",
         "precio": 6.90,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -138,7 +138,7 @@
     {
         "id":18,
         "nombre": "C.H. Cativen I-II (30 MW)",
-        "imagen": "https://i.postimg.cc/021VzWq8/piqueos-cheesetrisqueso.jpg",
+        "imagen": "https://i.postimg.cc/ZRvNNskg/cativen-I-II.png",
         "precio": 5,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -146,7 +146,7 @@
     {
         "id":19,
         "nombre": "C.H. Tarucani (49 MW)",
-        "imagen": "https://i.postimg.cc/ZYdfKk27/snacks-piqueosnax.jpg",
+        "imagen": "https://i.postimg.cc/g0TRnF78/Olmos-1.png",
         "precio": 5,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -154,7 +154,7 @@
     {
         "id":20,
         "nombre": "C.H. Molloco (280 MW)",
-        "imagen": "https://i.postimg.cc/Pq53tCnY/leche-gloriapaquete.jpg",
+        "imagen": "https://i.postimg.cc/c4yRRWLc/molloco.png",
         "precio": 21.60,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -162,7 +162,7 @@
     {
         "id":21,
         "nombre": "C.H. Olmos 1 (51 MW)",
-        "imagen": "https://i.postimg.cc/KzK0MCzY/leche-gloriapaquetelight.jpg",
+        "imagen": "https://i.postimg.cc/g0TRnF78/Olmos-1.png",
         "precio": 21.60,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -170,7 +170,7 @@
     {
         "id":22,
         "nombre": "C.H. Laguna Azul (20 MW)",
-        "imagen": "https://i.postimg.cc/vBp3LXgt/leche-idealpaquete.jpg",
+        "imagen": "https://i.postimg.cc/gkVv47wb/laguna-azul.png",
         "precio": 20.20,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -178,7 +178,7 @@
     {
         "id":23,
         "nombre": "C.H. Karpa (19 MW)",
-        "imagen": "https://i.postimg.cc/zG52cddd/yogurt-gloriagalonerafresa.jpg",
+        "imagen": "https://i.postimg.cc/qvQ2HCXm/karpa.png",
         "precio": 7.99,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -186,7 +186,7 @@
     {
         "id":24,
         "nombre": "C.H. Santa Lorenza I (18.7 MW)",
-        "imagen": "https://i.postimg.cc/Hk2vDQRT/yogurt-yoleitbotella1kgfresa.jpg",
+        "imagen": "https://i.postimg.cc/g0TRnF78/Olmos-1.png",
         "precio": 6.80,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -194,7 +194,7 @@
     {
         "id":25,
         "nombre": "C.H. Hydrika 1 (6.6 MW)",
-        "imagen": "https://i.postimg.cc/5N8kpcmY/huevos-bells15un.jpg",
+        "imagen": "https://i.postimg.cc/YCtQPxgG/hydrika-1.png",
         "precio": 9.40,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -202,7 +202,7 @@
     {
         "id":26,
         "nombre": "C.H. Hydrika 2 (4 MW)",
-        "imagen": "https://i.postimg.cc/brkL6b1c/huevos-lacalera30un.jpg",
+        "imagen": "https://i.postimg.cc/QC5c2405/hydrika-2.png",
         "precio": 9.40,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -210,7 +210,7 @@
     {
         "id":27,
         "nombre": "C.H. Hydrika 4 (8 MW)",
-        "imagen": "https://i.postimg.cc/PqV6Nddc/mantequilla-gloriapote.jpg",
+        "imagen": "https://i.postimg.cc/QC5c2405/hydrika-2.png",
         "precio": 16.90,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
@@ -218,7 +218,7 @@
     {
         "id":28,
         "nombre": "C.H. Hydrika 6 (8.9 MW)",
-        "imagen": "https://i.postimg.cc/05M4MKMC/mantequilla-gloriasinsalbarra.jpg",
+        "imagen": "https://i.postimg.cc/QC5c2405/hydrika-2.png",
         "precio": 9.40,
         "itemcategoria": "Hidroeléctrica",
         "categoria": "Centrales en Construcción"
