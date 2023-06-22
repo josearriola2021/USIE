@@ -34,7 +34,7 @@
     {
         "id":5,
         "nombre": "Central S.F.V Continua Chachani",
-        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "imagen": "https://i.postimg.cc/VNfqTWxZ/chachani.png",
         "precio": 30,
         "itemcategoria": "Solar",
         "categoria": "Centrales en Construcción"
@@ -42,7 +42,7 @@
     {
         "id":6,
         "nombre": "Central S.F.V Continua Misti",
-        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "imagen": "https://i.postimg.cc/mgGN3s8s/misti.png",
         "precio": 20,
         "itemcategoria": "Solar",
         "categoria": "Centrales en Construcción"
@@ -50,7 +50,7 @@
     {
         "id":7,
         "nombre": "Central S.F.V Continua Pichu Pichu",
-        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "imagen": "https://i.postimg.cc/0ydGcBBJ/pichu-pichu.png",
         "precio": 11.50,
         "itemcategoria": "Solar",
         "categoria": "Centrales en Construcción"
