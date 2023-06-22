@@ -89,139 +89,139 @@
     },
     {
         "id":12,
-        "nombre": "Galletas Picaras",
+        "nombre": "C.H. Centauro I-III (25 MW)",
         "imagen": "https://i.postimg.cc/hj1Mq38t/galletas-picaras.jpg",
         "precio": 4.60,
-        "itemcategoria": "Galletas y golosinas",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":13,
-        "nombre": "Galletas Casino",
+        "nombre": "C.H. Belo Horizonte (180 MW)",
         "imagen": "https://i.postimg.cc/66zzjg5H/galletas-casino.jpg",
         "precio": 4.20,
-        "itemcategoria": "Galletas y golosinas",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":14,
-        "nombre": "Chocolate Beso de Moza",
+        "nombre": "C.H. Raura II (13 MW)",
         "imagen": "https://i.postimg.cc/FzFpFgGg/chocolate-besodemoza.jpg",
         "precio": 10,
-        "itemcategoria": "Galletas y golosinas",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":15,
-        "nombre": "Chocolate Sublime",
+        "nombre": "C.H. Huallin I (6 MW)",
         "imagen": "https://i.postimg.cc/SK0GYpDK/chocolate-sublimecaja.jpg",
         "precio": 13,
-        "itemcategoria": "Galletas y golosinas",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":16,
-        "nombre": "Chocolate Triángulo",
+        "nombre": "C.H. Cola I (13.1 MW)",
         "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
         "precio": 28,
-        "itemcategoria": "Galletas y golosinas",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":17,
-        "nombre": "Cheetos Horneados queso",
+        "nombre": "C.H. Nueva Esperanza (9.16 MW)",
         "imagen": "https://i.postimg.cc/J43PZN1j/piqueos-cheetoshorneadoqueso.jpg",
         "precio": 6.90,
-        "itemcategoria": "Snack y piqueos",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":18,
-        "nombre": "Cheese Tris con queso",
+        "nombre": "C.H. Cativen I-II (30 MW)",
         "imagen": "https://i.postimg.cc/021VzWq8/piqueos-cheesetrisqueso.jpg",
         "precio": 5,
-        "itemcategoria": "Snack y piqueos",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":19,
-        "nombre": "Piqueo Snax",
+        "nombre": "C.H. Tarucani (49 MW)",
         "imagen": "https://i.postimg.cc/ZYdfKk27/snacks-piqueosnax.jpg",
         "precio": 5,
-        "itemcategoria": "Snack y piqueos",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":20,
-        "nombre": "Leche Gloria Paquete 6un",
+        "nombre": "C.H. Molloco (280 MW)",
         "imagen": "https://i.postimg.cc/Pq53tCnY/leche-gloriapaquete.jpg",
         "precio": 21.60,
-        "itemcategoria": "Leche",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":21,
-        "nombre": "Leche Gloria Light Paquete 6un",
+        "nombre": "C.H. Olmos 1 (51 MW)",
         "imagen": "https://i.postimg.cc/KzK0MCzY/leche-gloriapaquetelight.jpg",
         "precio": 21.60,
-        "itemcategoria": "Leche",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":22,
-        "nombre": "Leche Evaporada Ideal Paquete 6un",
+        "nombre": "C.H. Laguna Azul (20 MW)",
         "imagen": "https://i.postimg.cc/vBp3LXgt/leche-idealpaquete.jpg",
         "precio": 20.20,
-        "itemcategoria": "Leche",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":23,
-        "nombre": "Yogurt Gloria Sabor Fresa galonera 1.7kg",
+        "nombre": "C.H. Karpa (19 MW)",
         "imagen": "https://i.postimg.cc/zG52cddd/yogurt-gloriagalonerafresa.jpg",
         "precio": 7.99,
-        "itemcategoria": "Yogurt",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":24,
-        "nombre": "Yogurt Yoleit Fresa botella 1kg",
+        "nombre": "C.H. Santa Lorenza I (18.7 MW)",
         "imagen": "https://i.postimg.cc/Hk2vDQRT/yogurt-yoleitbotella1kgfresa.jpg",
         "precio": 6.80,
-        "itemcategoria": "Yogurt",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":25,
-        "nombre": "Huevos de gallina BELL'S 15un",
+        "nombre": "C.H. Hydrika 1 (6.6 MW)",
         "imagen": "https://i.postimg.cc/5N8kpcmY/huevos-bells15un.jpg",
         "precio": 9.40,
-        "itemcategoria": "Huevos",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":26,
-        "nombre": "Huevos Pardos LA CALERA 30un",
+        "nombre": "C.H. Hydrika 2 (4 MW)",
         "imagen": "https://i.postimg.cc/brkL6b1c/huevos-lacalera30un.jpg",
         "precio": 9.40,
-        "itemcategoria": "Huevos",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":27,
-        "nombre": "Mantequilla Gloria Pote 390g",
+        "nombre": "C.H. Hydrika 4 (8 MW)",
         "imagen": "https://i.postimg.cc/PqV6Nddc/mantequilla-gloriapote.jpg",
         "precio": 16.90,
-        "itemcategoria": "Mantequilla",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":28,
-        "nombre": "Mantequilla Gloria sin sal 200g",
+        "nombre": "C.H. Hydrika 6 (8.9 MW)",
         "imagen": "https://i.postimg.cc/05M4MKMC/mantequilla-gloriasinsalbarra.jpg",
         "precio": 9.40,
-        "itemcategoria": "Mantequilla",
-        "categoria": "Lacteos y Huevos"
+        "itemcategoria": "Hidroeléctrica",
+        "categoria": "Centrales en Construcción"
     }
   ],
   "categorias": [
