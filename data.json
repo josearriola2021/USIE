@@ -3,15 +3,15 @@
         "id":1,
         "nombre": "Central Eólica Wayra Extensión",
         "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
-        "Avance": 90,
+        "precio": 90,
         "itemcategoria": "Eólica",
-        "categoria": "Construcción"
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":2,
-        "nombre": "Cerveza Coronita Extra 6 Pack",
+        "nombre": "Cerveza",
         "imagen": "https://i.postimg.cc/prW40jjX/cerveza-corona-6un.webp",
-        "precio": 4,
+        "precio": 30,
         "itemcategoria": "Cervezas",
         "categoria": "Bebidas"
     },
@@ -19,7 +19,7 @@
         "id":3,
         "nombre": "Fideos Molitalia Bolsa 950g",
         "imagen": "https://i.postimg.cc/6pgC4sYn/fideos-molitalia.jpg",
-        "precio": 2.5,
+        "precio": 10,
         "itemcategoria": "Fideos",
         "categoria": "Abarrotes"
     },
