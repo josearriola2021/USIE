@@ -1,11 +1,11 @@
 {"productos": [
     {
         "id":1,
-        "nombre": "Atún Florida",
-        "imagen": "https://i.postimg.cc/FsPymkSP/atun-florida.jpg",
-        "precio": 5,
-        "itemcategoria": "Conservas",
-        "categoria": "Abarrotes"
+        "nombre": "Central Eólica Wayra Extensión",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "Avance": 90,
+        "itemcategoria": "Eólica",
+        "categoria": "Construcción"
     },
     {
         "id":2,
