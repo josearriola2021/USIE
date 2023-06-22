@@ -9,83 +9,83 @@
     },
     {
         "id":2,
-        "nombre": "Cerveza",
-        "imagen": "https://i.postimg.cc/prW40jjX/cerveza-corona-6un.webp",
+        "nombre": "Central Eólica Punta Lomitas",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 30,
-        "itemcategoria": "Cervezas",
-        "categoria": "Bebidas"
+        "itemcategoria": "Eólica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":3,
-        "nombre": "Fideos Molitalia Bolsa 950g",
-        "imagen": "https://i.postimg.cc/6pgC4sYn/fideos-molitalia.jpg",
+        "nombre": "Central Eólica San Juan (131.1 MW)",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 10,
-        "itemcategoria": "Fideos",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Eólica",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":4,
-        "nombre": "Inka Kola Lata 355ml",
-        "imagen": "https://i.postimg.cc/4dvfjpFD/gaseosalata-personal-inka.jpg",
+        "nombre": "Central Eólica Caravelí",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 5.90,
-        "itemcategoria": "Gaseosas",
-        "categoria": "Bebidas"
+        "itemcategoria": "GaseEólicaosas",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":5,
-        "nombre": "Pasta",
-        "imagen": "https://i.postimg.cc/662q9G4G/pasta-tornillo-molitalia.webp",
-        "precio": 2.29,
-        "itemcategoria": "Fideos",
-        "categoria": "Abarrotes"
+        "nombre": "Central S.F.V Continua Chachani",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "precio": 30,
+        "itemcategoria": "Solar",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":6,
-        "nombre": "Lejía Clorox Botella 1kg",
-        "imagen": "https://i.postimg.cc/vTqpKv5H/lejia-clorox.webp",
-        "precio": 4.50,
-        "itemcategoria": "Limpieza de baño",
-        "categoria": "Limpieza"
+        "nombre": "Central S.F.V Continua Misti",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "precio": 20,
+        "itemcategoria": "Solar",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":7,
-        "nombre": "Aceite Primor Botella 900ml",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
+        "nombre": "Central S.F.V Continua Pichu Pichu",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 11.50,
-        "itemcategoria": "Aceite",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Solar",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":8,
-        "nombre": "Arroz Bell's 5kg",
-        "imagen": "https://i.postimg.cc/Y04qSjrR/arroz-bells-5kg.webp",
+        "nombre": "Central S.F.V Clemesí",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 16.70,
-        "itemcategoria": "Arroz",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Solar",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":9,
-        "nombre": "Azúcar Rubia Bell's Bolsa 4kg",
-        "imagen": "https://i.postimg.cc/Znqjvt2V/azucar-bells-4kg.webp",
+        "nombre": "Central S.F.V Milagros",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 12,
-        "itemcategoria": "Azúcar",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Solar",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":10,
-        "nombre": "Galletas Morochas",
-        "imagen": "https://i.postimg.cc/ZKQBStc4/galleta-morochas-6un.webp",
+        "nombre": "Central S.F.V San Martín Solar (252.4 MW)",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 12,
-        "itemcategoria": "Galletas y golosinas",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Solar",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":11,
-        "nombre": "Galletas Margarita",
-        "imagen": "https://i.postimg.cc/CxnNKKCt/galletas-margarita.jpg",
+        "nombre": "Central S.F.V Solimana (250 MW)",
+        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 3.80,
-        "itemcategoria": "Galletas y golosinas",
-        "categoria": "Abarrotes"
+        "itemcategoria": "Solar",
+        "categoria": "Centrales en Construcción"
     },
     {
         "id":12,
