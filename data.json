@@ -58,7 +58,7 @@
     {
         "id":8,
         "nombre": "Central S.F.V Clemesí",
-        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "imagen": "https://i.postimg.cc/pTZXSDtC/clemesi.png",
         "precio": 16.70,
         "itemcategoria": "Solar",
         "categoria": "Centrales en Construcción"
@@ -66,7 +66,7 @@
     {
         "id":9,
         "nombre": "Central S.F.V Milagros",
-        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "imagen": "https://i.postimg.cc/pTZXSDtC/clemesi.png",
         "precio": 12,
         "itemcategoria": "Solar",
         "categoria": "Centrales en Construcción"
@@ -74,7 +74,7 @@
     {
         "id":10,
         "nombre": "Central S.F.V San Martín Solar (252.4 MW)",
-        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "imagen": "https://i.postimg.cc/yx8YCk1H/san-martin-solar.png",
         "precio": 12,
         "itemcategoria": "Solar",
         "categoria": "Centrales en Construcción"
@@ -82,7 +82,7 @@
     {
         "id":11,
         "nombre": "Central S.F.V Solimana (250 MW)",
-        "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
+        "imagen": "https://i.postimg.cc/yx8YCk1H/san-martin-solar.png",
         "precio": 3.80,
         "itemcategoria": "Solar",
         "categoria": "Centrales en Construcción"
