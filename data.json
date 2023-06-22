@@ -284,32 +284,32 @@
         "id":2,
         "descripcion":[
             {
-                "titulo":"Color",
-                "detalle":"Dorado"
+                "titulo":"Potencia Instalada",
+                "detalle":"250 MW"
             },
             {
-                "titulo":"Presentación",
-                "detalle":"Pack Botella"
+                "titulo":"N° de módulos",
+                "detalle":"705 600"
             },
             {
-                "titulo":"Pack",
-                "detalle":"6"
+                "titulo":"Tipo de módulos",
+                "detalle":"Silicio monocristalino"
             },
             {
-                "titulo":"Composición",
-                "detalle":"Malta de cebada"
+                "titulo":"Potencia de Módulos",
+                "detalle":"400 Wp"
             },
             {
-                "titulo":"Denominación/variedad",
-                "detalle":"Lager"
+                "titulo":"N° de inversores",
+                "detalle":"-"
             },
             {
-                "titulo":"Volumen neto",
-                "detalle":"210 ml"
+                "titulo":"Potencia de inversores",
+                "detalle":"3.36 MW"
             },
             {
-                "titulo":"Graduación Alcohólica",
-                "detalle":"4.5° GL"
+                "titulo":"Tipo de estructura",
+                "detalle":"Seguimiento horizontal en un eje, de este a oeste"
             },
             {
                 "titulo":"Advertencias de consumo",
