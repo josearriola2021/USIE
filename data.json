@@ -11,27 +11,33 @@
         "informes":[
             {
                 "id_informe": 1,
-                "cod":"2020-12-05"
+                "cod":"2020-12-05",
+                "sup":"Miguel Seminario"
             },
             {
                 "id_informe": 2,
-                "cod":"2021-08-04"
+                "cod":"2021-08-04",
+                "sup":"Luis Alzamora"
             },
             {
                 "id_informe":3,
-                "cod":"2019-11-04"
+                "cod":"2019-11-04",
+                "sup":"Miguel Seminario"
             },
             {
                 "id_informe":4,
-                "cod":"2019-07-04"
+                "cod":"2019-07-04",
+                "sup":"Mijail Gallardo"
             },
             {
                 "id_informe":5,
-                "cod":"2019-02-04"
+                "cod":"2019-02-04",
+                "sup":"Mijail Gallardo"
             },
             {
                 "id_informe":6,
-                "cod":"2019-11-04"
+                "cod":"2019-11-04",
+                "sup":"Norberto"
             },
             {
                 "id_informe":7,
