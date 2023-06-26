@@ -12,7 +12,8 @@
             {
                 "id_informe": 1,
                 "cod":"2020-12-05",
-                "sup":"Miguel Seminario"
+                "sup":"Miguel Seminario",
+                "dir_inf": "../../inf/2020-10-10.pdf"
             },
             {
                 "id_informe": 2,
