@@ -109,7 +109,8 @@
         "informes":[
             {
                 "id_informe": 1,
-                "cod":"2018-02-05"
+                "cod":"2018-02-05",
+                "dir_inf": "../../inf/2021-12-12.pdf"
             },
             {
                 "id_informe": 2,
