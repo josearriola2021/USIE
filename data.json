@@ -30,7 +30,21 @@
         "precio": 30,
         "itemcategoria": "Eólica",
         "categoria": "Centrales en Construcción",
-        "sup": "Luis Alzamora"
+        "sup": "Luis Alzamora",
+        "informes":[
+            {
+                "id_informe": 1,
+                "cod":"2018-02-05"
+            },
+            {
+                "id_informe": 2,
+                "cod":"2017-06-04"
+            },
+            {
+                "id_informe":3,
+                "cod":"2019-07-05"
+            }
+        ]
     },
     {
         "id":3,
