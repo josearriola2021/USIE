@@ -6,7 +6,8 @@
         "imagen": "https://i.postimg.cc/Dz3pXvFL/wayra-extension.jpg",
         "precio": 90,
         "itemcategoria": "Eólica",
-        "categoria": "Centrales en Construcción"
+        "categoria": "Centrales en Construcción",
+        "sup": "Miguel Seminario"
     },
     {
         "id":2,
@@ -14,7 +15,8 @@
         "imagen": "https://i.postimg.cc/bN1bH47Q/punta-lomitas.png",
         "precio": 30,
         "itemcategoria": "Eólica",
-        "categoria": "Centrales en Construcción"
+        "categoria": "Centrales en Construcción",
+        "sup": "Luis Alzamora"
     },
     {
         "id":3,
@@ -766,5 +768,5 @@
         },
         "nat": "Manuel Seminario"
     }        
-    ]
+  ]
 }
