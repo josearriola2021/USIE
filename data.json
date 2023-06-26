@@ -8,7 +8,20 @@
         "itemcategoria": "Eólica",
         "categoria": "Centrales en Construcción",
         "sup": "Miguel Seminario",
-        "informes":["2020-10-01","2023-12-03","2023-12-12"]
+        "informes":[
+            {
+                "id_informe": 1,
+                "cod":"2020-12-05"
+            },
+            {
+                "id_informe": 2,
+                "cod":"2021-08-04"
+            },
+            {
+                "id_informe":3,
+                "cod":"2019-11-04"
+            }
+        ]
     },
     {
         "id":2,
