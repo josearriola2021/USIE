@@ -18,12 +18,14 @@
             {
                 "id_informe": 2,
                 "cod":"2021-08-04",
-                "sup":"Luis Alzamora"
+                "sup":"Luis Alzamora",
+                "dir_inf": "inf/2021-08-04.pdf"                
             },
             {
                 "id_informe":3,
                 "cod":"2019-11-04",
-                "sup":"Miguel Seminario"
+                "sup":"Miguel Seminario",
+                "dir_inf": "inf/2019-11-04.pdf"                
             },
             {
                 "id_informe":4,
