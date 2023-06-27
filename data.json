@@ -350,36 +350,36 @@
         "id":1,
         "descripcion":[
             {
-                "titulo":"Presentacion/Empaque",
-                "detalle":"Lata"
+                "titulo":"Potencia Instalada",
+                "detalle":"177 MW"
             },
             {
-                "titulo":"Porción Sugerida",
-                "detalle":"100g"
+                "titulo":"N° de circuitos",
+                "detalle":"11"
             },
             {
-                "titulo":"Azúcares por porción",
-                "detalle":"sin azúcar"
+                "titulo":"N° de unidades",
+                "detalle":"30"
             },
             {
-                "titulo":"Calorías",
-                "detalle":"140 kcal por 100g"
+                "titulo":"Potencia Nominal",
+                "detalle":"5.9 MW"
             },
             {
-                "titulo":"Carbohidratos",
-                "detalle":"0 g por 100 g"
+                "titulo":"Tensión de Generación",
+                "detalle":"0.75 kV"
             },
             {
-                "titulo":"Medio de Conservación",
-                "detalle":"Lugar Fresco y Seco"
+                "titulo":"Longitud de Torre",
+                "detalle":"105 m"
             },
             {
-                "titulo":"Porciones por envase",
-                "detalle":"1"
+                "titulo":"Marca",
+                "detalle":"Nordex modelo N155"
             },
             {
-                "titulo":"Denominación",
-                "detalle":"Trozos de Atún en Aceite Vegetal 150g"
+                "titulo":"Año de fabricación",
+                "detalle":"2022"
             }
         ]       
     },
@@ -415,8 +415,8 @@
                 "detalle":"Seguimiento horizontal en un eje, de este a oeste"
             },
             {
-                "titulo":"Advertencias de consumo",
-                "detalle":"Tomar bebidas alcohólicas en exceso es dañino. Consumir preferentemente antes de la fecha indicada en el envase"
+                "titulo":"",
+                "detalle":""
             }
         ]       
     },
@@ -700,173 +700,174 @@
             }
         ]       
     }
-  ],
-
-  "results": [
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    },
-    {
-        "informe": "2020-12-02",
-        "name": {
-            "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-            "first": "C.H. Karpa",
-            "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-        },
-        "email": "Manuel Seminario",
-        "picture": {
-            "large": "https://randomuser.me/api/portraits/men/48.jpg",
-            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-        },
-        "nat": "Manuel Seminario"
-    }        
   ]
+
+//   "results": [
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     },
+//     {
+//         "informe": "2020-12-02",
+//         "name": {
+//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+//             "first": "C.H. Karpa",
+//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+//         },
+//         "email": "Manuel Seminario",
+//         "picture": {
+//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
+//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+//         },
+//         "nat": "Manuel Seminario"
+//     }        
+//   ]
+
 }
