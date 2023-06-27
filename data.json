@@ -121,7 +121,8 @@
                 "id_informe":3,
                 "cod":"2019-07-05"
             }
-        ]
+        ],
+        "dir_contrato": "cont/punta_lomitas.pdf"
     },
     {
         "id":3,
