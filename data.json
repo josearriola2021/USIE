@@ -341,15 +341,7 @@
         "subcategorias": ["Eólica", "Solar", "Hidroeléctrica", "Térmica"]
     },
     {
-        "nombre": "Centrales Operación",
-        "subcategorias": ["Eólica", "Solar", "Hidroeléctrica", "Térmica"]
-    },
-    {
         "nombre": "Líneas en Construcción",
-        "subcategorias": ["500 kV", "220 kV", "138 kV", "60 kV"]
-    },
-    {
-        "nombre": "Líneas en Operación",
         "subcategorias": ["500 kV", "220 kV", "138 kV", "60 kV"]
     }
   ],
