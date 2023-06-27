@@ -388,35 +388,35 @@
         "descripcion":[
             {
                 "titulo":"Potencia Instalada",
-                "detalle":"250 MW"
+                "detalle":"177 MW"
             },
             {
-                "titulo":"N° de módulos",
-                "detalle":"705 600"
+                "titulo":"N° de circuitos",
+                "detalle":"11"
             },
             {
-                "titulo":"Tipo de módulos",
-                "detalle":"Silicio monocristalino"
+                "titulo":"N° de unidades",
+                "detalle":"30"
             },
             {
-                "titulo":"Potencia de Módulos",
-                "detalle":"400 Wp"
+                "titulo":"Potencia Nominal",
+                "detalle":"5.9 MW"
             },
             {
-                "titulo":"N° de inversores",
-                "detalle":"-"
+                "titulo":"Tensión de Generación",
+                "detalle":"0.75 kV"
             },
             {
-                "titulo":"Potencia de inversores",
-                "detalle":"3.36 MW"
+                "titulo":"Longitud de Torre",
+                "detalle":"105 m"
             },
             {
-                "titulo":"Tipo de estructura",
-                "detalle":"Seguimiento horizontal en un eje, de este a oeste"
+                "titulo":"Marca",
+                "detalle":"Nordex modelo N155"
             },
             {
-                "titulo":"",
-                "detalle":""
+                "titulo":"Año de fabricación",
+                "detalle":"2022"
             }
         ]       
     },
@@ -494,40 +494,36 @@
         "id":5,
         "descripcion":[
             {
-                "titulo":"Presentación/Empaque",
-                "detalle":"Paquete"
+                "titulo":"Potencia Instalada",
+                "detalle":"250 MW"
             },
             {
-                "titulo":"Producto Preparado",
-                "detalle":"Sí"
+                "titulo":"N° de módulos",
+                "detalle":"705 600"
             },
             {
-                "titulo":"Porción Sugerida",
-                "detalle":"80g"
+                "titulo":"Tipo de módulos",
+                "detalle":"Silicio monocristalino"
             },
             {
-                "titulo":"Tipo de Producto",
-                "detalle":"Fusilli / Tornillo"
+                "titulo":"Potencia de Módulos",
+                "detalle":"400 Wp"
             },
             {
-                "titulo":"Alergénos Declarados",
-                "detalle":"Contiene Gluten"
+                "titulo":"N° de inversores",
+                "detalle":"-"
             },
             {
-                "titulo":"Calorías por porción",
-                "detalle":"290kCal"
+                "titulo":"Potencia de inversores",
+                "detalle":"3.36 MW"
             },
             {
-                "titulo":"Descripción Nutricional",
-                "detalle":"Sin colorantes"
+                "titulo":"Tipo de estructura",
+                "detalle":"Seguimiento horizontal en un eje, de este a oeste"
             },
             {
-                "titulo":"Contenido Neto",
-                "detalle":"250g"
-            },
-            {
-                "titulo":"Denominación/variedad",
-                "detalle":"Tornillo Especial"
+                "titulo":"",
+                "detalle":""
             }
         ]       
     },
@@ -701,173 +697,4 @@
         ]       
     }
   ]
-
-//   "results": [
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     },
-//     {
-//         "informe": "2020-12-02",
-//         "name": {
-//             "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-//             "first": "C.H. Karpa",
-//             "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-//         },
-//         "email": "Manuel Seminario",
-//         "picture": {
-//             "large": "https://randomuser.me/api/portraits/men/48.jpg",
-//             "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-//             "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-//         },
-//         "nat": "Manuel Seminario"
-//     }        
-//   ]
-
 }
